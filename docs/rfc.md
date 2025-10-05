@@ -11,12 +11,12 @@ This document outlines the proposed technical design for a command-line interfac
 Technology Stack
 Language: Python 3.9+
 
-CLI Framework: Typer (for its simplicity and robust feature set).
+CLI Framework: Click
 
 Data Handling: Python's built-in csv module for mapping and json module for templating and output.
 
 Core Components
-CLI (app.py): The main entry point. It will use Typer to define commands, arguments (--input, --output), and options.
+CLI (app.py): The main entry point. It will use Click to define commands, arguments (--input, --output), and options.
 
 Input Parser: A module responsible for taking the raw input string (from a text file) and parsing it into a structured list of players and their target buy prices.
 
@@ -27,16 +27,7 @@ Disambiguation Engine: A simple interactive function that, when the Data Mapper 
 JSON Generator: This component will load a template.json file. It will loop through the user's confirmed list of players, and for each player, it will populate the template with the dynamic data (ID, price, name, etc.) and add the resulting object to the final JSON structure.
 
 3. Data Schemas
-Mapping Data (players.csv)
-A CSV file with the following required columns:
-
-PlayerID	FirstName	LastName	Rating	SearchableName
-261733	Sandy	Baltimore	85	Baltimore
-225375	Konrad	Laimer	82	Laimer IF
-
-Export to Sheets
-Output Data (filters.json)
-The application will generate a JSON object matching the following structure. The majority of the file is a static template, with the dynamic fields noted below.
+Mapping Data (\fc_filter_gen\reference_docs\player_id_mapping.csv)
 
 JSON
 
@@ -66,6 +57,7 @@ JSON
         "PLAYER_KEY_2": { /* ... more player objects */ }
     }
 }
+Further full examples: "fc_filter_gen\reference_docs\sample_filters"
 4. Error Handling
 The application must handle errors gracefully by printing a clear message to the console and exiting.
 

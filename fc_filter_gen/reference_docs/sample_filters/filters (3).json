@@ -1,0 +1,845 @@
+{
+    "filters": {
+        "device": false,
+        "BETH": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 256489,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 256489,
+                "firstName": "Bethany",
+                "lastName": "England",
+                "commonName": null,
+                "rating": 82
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                    850,
+                    850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "CARRASCO": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 208418,
+                "maxBid": 0,
+                "maxBuy": 500,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 208418,
+                "firstName": "Yannick",
+                "lastName": "Carrasco",
+                "commonName": null,
+                "rating": 81
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 500,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "FREU": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 202024,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 202024,
+                "firstName": "Remo",
+                "lastName": "Freuler",
+                "commonName": null,
+                "rating": 81
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "HRAD": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 190941,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 190941,
+                "firstName": "Lukáš",
+                "lastName": "Hrádecký",
+                "commonName": null,
+                "rating": 81
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "MERET": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 225116,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 225116,
+                "firstName": "Alex",
+                "lastName": "Meret",
+                "commonName": null,
+                "rating": 82
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "PERISI": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 181458,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 181458,
+                "firstName": "Ivan",
+                "lastName": "Perišić",
+                "commonName": null,
+                "rating": 81
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "SORIA": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 223952,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 223952,
+                "firstName": "David",
+                "lastName": "Soria Solís",
+                "commonName": "David Soria",
+                "rating": 81
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        850,
+                        850
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "WOOD": {
+            "criteria": {
+                "academyOnly": false,
+                "_authenticity": "any",
+                "_category": "any",
+                "_position": "any",
+                "_sort": "desc",
+                "_subtypes": [],
+                "_type": "player",
+                "_untradeables": "",
+                "_zone": -1,
+                "academySlotId": -1,
+                "club": -1,
+                "count": 21,
+                "defId": [],
+                "evolutionStatus": "any",
+                "excludeDefIds": [],
+                "excludeLimitedUse": false,
+                "isExactSearch": false,
+                "excludeTimeEvo": false,
+                "league": -1,
+                "level": "any",
+                "maskedDefId": 192123,
+                "maxBid": 0,
+                "maxBuy": 550,
+                "minBid": 0,
+                "minBuy": 200,
+                "nation": -1,
+                "offset": 0,
+                "playStyle": -1,
+                "preferredPositionOnly": false,
+                "primaryColor": 0,
+                "rarities": [],
+                "secondaryColor": 0,
+                "sortBy": "ovr",
+                "icontraits": "any",
+                "ovrMin": 45,
+                "ovrMax": 99
+            },
+            "searchCategoryGroup": "none",
+            "playerData": {
+                "id": 192123,
+                "firstName": "Chris",
+                "lastName": "Wood",
+                "commonName": null,
+                "rating": 82
+            },
+            "baseSetting": {
+                "buySetting": {
+                    "buyPrice": 550,
+                    "bidPrice": 0,
+                    "noOfCards": 10,
+                    "buyPricePercentage": 85,
+                    "buyPriceSteps": 0,
+                    "searchResultThreshold": 21,
+                    "bidExactPrice": false,
+                    "findBuyPrice": false,
+                    "findBidPrice": false,
+                    "skipGoalKeeper": false,
+                    "skipBasicChemistry": false,
+                    "skipClubPlayers": false,
+                    "bidItemsExpiringIn": 3600
+                },
+                "sellSetting": {
+                    "sellPrice": [
+                        750,
+                        750
+                    ],
+                    "clearSoldItemThreshold": 10,
+                    "ratingThreshold": 100,
+                    "sellPricePercentage": 95,
+                    "sellPriceSteps": 0,
+                    "listDuration": 3600,
+                    "checkBuyPrice": false,
+                    "findSellPrice": false,
+                    "relistUnSoldItems": false,
+                    "quickSell": false,
+                    "dontMoveWonItems": false,
+                    "moveToTransferList": false,
+                    "clearSoldItems": false
+                },
+                "searchSetting": {
+                    "randomMinBuy": 300,
+                    "randomMinBid": 300,
+                    "searchResultPageLimit": 1,
+                    "useRandomMinBuy": true,
+                    "useRandomMinBid": false,
+                    "runForeGround": false,
+                    "ratingRange": [
+                        10,
+                        99
+                    ],
+                    "filterRating": 0
+                }
+            }
+        },
+        "shared": {
+            "captchaSetting": {
+                "antiCaptchaKey": "",
+                "proxyAddress": "",
+                "proxyPort": "",
+                "proxyUsername": "",
+                "proxyPassword": "",
+                "closeWebAppOnCaptcha": false,
+                "autoSolveCaptcha": false
+            },
+            "commonSetting": {
+                "autoClearLog": true,
+                "autoClearExpired": true,
+                "showSearchLog": true,
+                "showMilliSecond": true,
+                "logTypes": [
+                    "ALL"
+                ],
+                "sellPriceRange": false
+            },
+            "notificationSetting": {
+                "telegramBotToken": "",
+                "telegramChatId": "",
+                "discordBotToken": "",
+                "discordChannelId": "",
+                "discordWebHookUrl": "",
+                "futMarketAlertToken": "-6rl8tLFRUsOvuEUk_Ia83",
+                "notificationType": [
+                    "ALL"
+                ],
+                "sendDesktopNotification": false,
+                "sendListingNotification": false,
+                "sendNotification": false,
+                "soundNotification": false,
+                "customDiscordWHName": false
+            },
+            "safeSetting": {
+                "waitTime": [
+                    2,
+                    9
+                ],
+                "maxPurchasesPerSearchRequest": 1,
+                "pauseCycle": [
+                    10,
+                    15
+                ],
+                "pauseFor": [
+                    5,
+                    26
+                ],
+                "stopAfter": [
+                    25,
+                    40
+                ],
+                "showSearchExceedWarning": false,
+                "disableSafetyLimits": false,
+                "delayAfterBidFor": [
+                    0,
+                    0
+                ],
+                "errorCount": 1,
+                "errorTypes": [
+                    401,
+                    429,
+                    458,
+                    494,
+                    512,
+                    521,
+                    470
+                ]
+            }
+        }
+    }
+}

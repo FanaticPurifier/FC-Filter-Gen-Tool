@@ -1,0 +1,131 @@
+Player	
+
+Trading Type
+
+Current Price
+Suggested at
+
+Rec. Buy Price
+
+Rec. Sell Price
+
+Risk
+
+Est. Profit
+Lavelle
+Add to Portfolio
+Promo Trading
+52,000 
+05/10/25,22:21
+45,500
+52,000
+3.21 %
+3,900
+Stanway
+Add to Portfolio
+Promo Trading
+18,250 
+05/10/25,22:21
+16,000
+18,250
+3.28 %
+1,337
+Martinez
+Add to Portfolio
+Fodder
+12,500 
+05/10/25,22:21
+12,250
+16,000
+3.33 %
+2,950
+Kane
+Add to Portfolio
+Fodder
+19,000 
+05/10/25,22:21
+18,500
+22,000
+5.88 %
+2,400
+Rafa
+Add to Portfolio
+Promo Trading
+11,000 
+05/10/25,22:21
+11,000
+12,500
+6.06 %
+875
+Rodri
+Add to Portfolio
+Fodder
+30,750 
+05/10/25,22:21
+29,750
+37,750
+6.25 %
+6,112
+Fiamma Benitez
+Add to Portfolio
+Promo Trading
+11,000 
+05/10/25,22:21
+10,750
+12,250
+6.31 %
+887
+Koke
+Add to Portfolio
+Promo Trading
+11,250 
+05/10/25,22:21
+10,750
+12,250
+6.94 %
+887
+Shrader
+Add to Portfolio
+Promo Trading
+11,250 
+05/10/25,22:21
+10,500
+12,000
+6.94 %
+900
+Russo
+Add to Portfolio
+Fodder
+19,250 
+05/10/25,22:21
+18,250
+21,750
+11.11 %
+2,412
+Berger
+Add to Portfolio
+Fodder
+6,500 
+05/10/25,22:21
+5,700
+8,400
+14.81 %
+2,280
+Bastoni
+Add to Portfolio
+Fodder
+9,800 
+05/10/25,22:21
+8,700
+12,250
+15.49 %
+2,937
+Katoto
+Add to Portfolio
+Fodder
+12,000 
+05/10/25,22:21
+10,250
+15,500
+15.51 %
+4,475
