@@ -1,0 +1,16 @@
+[project]
+name = "fc-filter-gen-tool"
+version = "0.1.0"
+description = "A minimal starter Python project using click"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "click>=8.0.0",
+]
+
+[project.scripts]
+fc-filter-gen = "fc_filter_gen.cli:main"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
