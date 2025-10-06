@@ -12,5 +12,5 @@ dependencies = [
 fc-filter-gen = "fc_filter_gen.cli:main"
 
 [build-system]
-requires = ["setuptools>=45", "wheel"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"

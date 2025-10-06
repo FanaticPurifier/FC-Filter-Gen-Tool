@@ -16,27 +16,25 @@ class DataMapper:
 
         except FileNotFoundError:
             print(f"Error: The file '{csv_filepath}' was not found in this directory.")
-            exit(1) # Exit if we can't load the core data.
+            raise
         except Exception as e:
             print(f"An error occurred while reading the CSV: {e}")
-            exit(1)
-
+            raise
     def search_by_name(self, search_term):
         """
         Searches for players whose 'name' contains the search_term.
         This is case-insensitive.
         Returns a list of matching player dictionaries.
         
-        *** NOTE: This assumes your CSV has a column named 'name'. ***
-        *** If it's different (e.g., 'player_name'), change p['name'] below. ***
+        *** NOTE: This assumes your CSV has a column named 'Name'. ***
+        *** If it's different (e.g., 'player_name'), change p['Name'] below. ***
         """
         search_term = search_term.lower()
         matches = [
-            p for p in self.players 
-            if search_term in p['Name'].lower()
+            p for p in self.players
+            if 'Name' in p and search_term in p['Name'].lower()
         ]
         return matches
-
 # --- Test Block ---
 # This code runs when you execute `python data_mapper.py`
 if __name__ == "__main__":
