@@ -101,3 +101,43 @@ Promo Trading
     ]
     result = parse_trade_list(sample_input)
     assert result == expected
+
+def test_parse_and_map_trades():
+    from fc_filter_gen.input_parser import parse_and_map_trades
+    from fc_filter_gen.data_mapper import DataMapper
+    import tempfile, os
+
+    # Create a temporary player_id_mapping.csv
+    csv_content = "Name,ID\nLavelle,101\nStanway,102\n"
+    fd, path = tempfile.mkstemp(suffix='.csv')
+    with os.fdopen(fd, 'w', encoding='utf-8') as f:
+        f.write(csv_content)
+    data_mapper = DataMapper(path)
+
+    sample_input = """
+Lavelle
+Add to Portfolio
+Promo Trading
+52,000
+05/10/25,22:21
+45,500
+52,000
+3.21 %
+3,900
+Stanway
+Add to Portfolio
+Promo Trading
+18,250
+05/10/25,22:21
+16,000
+18,250
+3.28 %
+1,337
+    """
+    expected = [
+        ('Lavelle', '101', 52000),
+        ('Stanway', '102', 18250),
+    ]
+    result = parse_and_map_trades(sample_input, data_mapper)
+    assert result == expected
+    os.remove(path)

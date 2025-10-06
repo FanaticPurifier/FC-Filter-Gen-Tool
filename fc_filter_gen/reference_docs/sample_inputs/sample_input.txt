@@ -1,131 +1,207 @@
-Player	
-
-Trading Type
-
-Current Price
-Suggested at
-
-Rec. Buy Price
-
-Rec. Sell Price
-
-Risk
-
-Est. Profit
+Hemp
+Add to Portfolio
+Fodder
+9,000 
+05/10/25,23:21
+8,800
+12,750
+2.53 %
+3,312
+Buhl
+Add to Portfolio
+Fodder
+6,000 
+05/10/25,23:21
+5,800
+8,200
+4.16 %
+1,990
+Reiten
+Add to Portfolio
+Fodder
+12,250 
+05/10/25,23:21
+11,750
+16,000
+5.62 %
+3,450
+Russo
+Add to Portfolio
+Fodder
+19,000 
+05/10/25,23:21
+18,250
+21,750
+8.33 %
+2,412
+Rodri
+Add to Portfolio
+Fodder
+31,750 
+05/10/25,23:21
+29,750
+37,750
+12.5 %
+6,112
+Bastoni
+Add to Portfolio
+Fodder
+9,600 
+05/10/25,23:21
+8,700
+12,250
+12.67 %
+2,937
+Kane
+Add to Portfolio
+Fodder
+18,000 
+05/10/25,23:21
+18,500
+22,000
+13.78 %
+2,400
+Shaw
+Add to Portfolio
+Fodder
+19,000 
+05/10/25,23:21
+17,750
+22,250
+13.88 %
+3,387
+Giugliano
+Add to Portfolio
+Fodder
+3,400 
+05/10/25,23:21
+3,500
+4,400
+14.68 %
+680
+Tielemans
+Add to Portfolio
+Fodder
+3,500 
+05/10/25,23:21
+3,600
+4,300
+14.92 %
+485
+Gabriel
+Add to Portfolio
+Fodder
+12,000 
+05/10/25,23:21
+10,500
+15,250
+15.78 %
+3,987
+Calhanoglu
+Add to Portfolio
+Fodder
+6,700 
+05/10/25,23:21
+5,900
+8,200
+17.39 %
+1,890
+Harder
+Add to Portfolio
+Fodder
+6,500 
+05/10/25,23:21
+5,800
+7,800
+17.5 %
+1,610
+Katoto
+Add to Portfolio
+Fodder
+12,250 
+05/10/25,23:21
+10,250
+15,500
+18.05 %
+4,475
+Kelly
+Add to Portfolio
+Fodder
+9,600 
+05/10/25,23:21
+8,200
+11,750
+19.37 %
+2,962
+Weir
+Add to Portfolio
+Fodder
+3,500 
+05/10/25,23:21
+3,500
+4,600
+25 %
+870
+Caicedo
+Add to Portfolio
+Fodder
+3,500 
+05/10/25,23:21
+3,500
+4,200
+25 %
+490
+Ederson
+Add to Portfolio
+Fodder
+3,500 
+05/10/25,23:21
+3,500
+4,200
+25 %
+490
+Rush
+Add to Portfolio
+Icon Trading
+99,000 
+06/10/25,03:11
+99,000
+115,000
+25 %
+10,250
+Bright
+Add to Portfolio
+Promo Trading
+122,000 
+06/10/25,03:11
+90,000
+103,000
+40.98 %
+7,850
 Lavelle
 Add to Portfolio
 Promo Trading
 52,000 
-05/10/25,22:21
+06/10/25,03:11
 45,500
 52,000
-3.21 %
+42.43 %
 3,900
 Stanway
 Add to Portfolio
 Promo Trading
-18,250 
-05/10/25,22:21
+18,500 
+06/10/25,03:11
 16,000
 18,250
-3.28 %
+42.63 %
 1,337
-Martinez
-Add to Portfolio
-Fodder
-12,500 
-05/10/25,22:21
-12,250
-16,000
-3.33 %
-2,950
-Kane
-Add to Portfolio
-Fodder
-19,000 
-05/10/25,22:21
-18,500
-22,000
-5.88 %
-2,400
-Rafa
+Laimer
 Add to Portfolio
 Promo Trading
-11,000 
-05/10/25,22:21
-11,000
-12,500
-6.06 %
-875
-Rodri
-Add to Portfolio
-Fodder
-30,750 
-05/10/25,22:21
-29,750
-37,750
-6.25 %
-6,112
-Fiamma Benitez
-Add to Portfolio
-Promo Trading
-11,000 
-05/10/25,22:21
-10,750
-12,250
-6.31 %
-887
-Koke
-Add to Portfolio
-Promo Trading
-11,250 
-05/10/25,22:21
-10,750
-12,250
-6.94 %
-887
-Shrader
-Add to Portfolio
-Promo Trading
-11,250 
-05/10/25,22:21
-10,500
-12,000
-6.94 %
-900
-Russo
-Add to Portfolio
-Fodder
-19,250 
-05/10/25,22:21
-18,250
-21,750
-11.11 %
-2,412
-Berger
-Add to Portfolio
-Fodder
-6,500 
-05/10/25,22:21
-5,700
-8,400
-14.81 %
-2,280
-Bastoni
-Add to Portfolio
-Fodder
-9,800 
-05/10/25,22:21
-8,700
-12,250
-15.49 %
-2,937
-Katoto
-Add to Portfolio
-Fodder
-12,000 
-05/10/25,22:21
-10,250
-15,500
-15.51 %
-4,475
+14,250 
+06/10/25,03:11
+12,750
+14,500
+42.73 %
+1,025
